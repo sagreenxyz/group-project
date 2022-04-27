@@ -75,6 +75,16 @@ main h2 {
     }
 }
 
+
+.Ron-style {
+	color: gray;
+	background-color: black;
+	padding: 3px;
+}
+
+
+
+
 @keyframes slidein {
     from {
       margin-left: 100%;
@@ -86,3 +96,4 @@ main h2 {
       width: 100%;
     }
   }
+
